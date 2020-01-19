@@ -16,3 +16,5 @@ Landsat7 bands:
 
 Features scaling was done in ranege <-1;1>. Cross validation was used for C and gamma parameters tuning. As the kernel radial-bases 
 function was chosen.
+  
+The main file is myScript_classify.py.
