@@ -14,5 +14,5 @@ Landsat7 bands:
 | Band 5  | 1.55-1.75 |
 | Band 6  |  2.09-2.35  |  
 
-Features scaling wasdon in ranege <-1;1>. Cross validation was used for C and gamma parameters tuning. As the kernel radial-bases 
+Features scaling was done in ranege <-1;1>. Cross validation was used for C and gamma parameters tuning. As the kernel radial-bases 
 function was chosen.
